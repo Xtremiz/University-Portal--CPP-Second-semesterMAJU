@@ -1,0 +1,39 @@
+Shumas,Kashif,95,bscs,Present
+Fatima,Iklaq,99,bscs,Present
+Hajra,Hammid,90,bscs,Present
+Session: 1 - 30-12-2024 06:50
+Shumas,Kashif,bscs,Present
+Fatima,Iklaq,bscs,Present
+Hajra,Hammid,bscs,Absent
+Session: 1 - 30-12-2024 06:58
+Shumas,Kashif,bscs,Present
+Fatima,Iklaq,bscs,Present
+Hajra,Hammid,bscs,Absent
+Session: 1 - 30-12-2024 07:22
+Shumas,Kashif,95,bscs,Present
+Fatima,Iklaq,99,bscs,Present
+Hajra,Hammid,90,bscs,Present
+Session: 2 - 30-12-2024 07:23
+Shumas,Kashif,95,bscs,Present
+Fatima,Iklaq,99,bscs,Present
+Hajra,Hammid,90,bscs,Present
+Session: 1 - 30-12-2024 07:46
+Shumas,Kashif,95,bscs,Absent
+Fatima,Iklaq,99,bscs,Absent
+Hajra,Hammid,90,bscs,Present
+Session: 2 - 30-12-2024 07:46
+Shumas,Kashif,95,bscs,Present
+Fatima,Iklaq,99,bscs,Present
+Hajra,Hammid,90,bscs,Present
+Session: 3 - 30-12-2024 07:46
+Shumas,Kashif,95,bscs,Absent
+Fatima,Iklaq,99,bscs,Present
+Hajra,Hammid,90,bscs,Absent
+Session: 1 - 30-12-2024 07:48
+Shumas,Kashif,95,bscs,Present
+Fatima,Iklaq,99,bscs,Present
+Hajra,Hammid,90,bscs,Present
+/n New Session:  - 30-12-2024 07:54
+Shumas,Kashif,95,bscs,Present
+Fatima,Iklaq,99,bscs,Present
+Hajra,Hammid,90,bscs,Present

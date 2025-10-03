@@ -1,0 +1,4 @@
+ali,raza,87,0990,BSCS,Male,Showme123@
+Shumas,Kashif,04,911,BSCS,male,karachi@123
+Hanzala,Iqbal,55,9887,BSCS,Male,karachi@123
+zubair,khan,03,39999,BSCS,Male,karachi@123

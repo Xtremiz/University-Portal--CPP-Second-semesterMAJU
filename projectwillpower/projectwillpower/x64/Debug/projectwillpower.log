@@ -1,0 +1,24 @@
+﻿  CppCLR_WinFormsProject.cpp
+C:\Users\kk\OneDrive\Desktop\Final\projectwillpower\projectwillpower\OOP.h(8,11): warning C4570: 'CRUDoperation': is not explicitly declared as abstract but has abstract functions
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+      C:\Users\kk\OneDrive\Desktop\Final\projectwillpower\projectwillpower\OOP.h(8,11):
+      'System::String ^CRUDoperation::GetFilePath(void)': is abstract
+      C:\Users\kk\OneDrive\Desktop\Final\projectwillpower\projectwillpower\OOP.h(13,21):
+      see declaration of 'CRUDoperation::GetFilePath'
+  
+C:\Users\kk\OneDrive\Desktop\Final\projectwillpower\projectwillpower\mapper.h(9,11): warning C4570: 'mapper': is not explicitly declared as abstract but has abstract functions
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+      C:\Users\kk\OneDrive\Desktop\Final\projectwillpower\projectwillpower\mapper.h(9,11):
+      'System::String ^CRUDoperation::GetFilePath(void)': is abstract
+      C:\Users\kk\OneDrive\Desktop\Final\projectwillpower\projectwillpower\OOP.h(13,21):
+      see declaration of 'CRUDoperation::GetFilePath'
+  
+C:\Users\kk\OneDrive\Desktop\Final\projectwillpower\projectwillpower\specialfunc.h(9,11): warning C4570: 'specialfunc': is not explicitly declared as abstract but has abstract functions
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+      C:\Users\kk\OneDrive\Desktop\Final\projectwillpower\projectwillpower\specialfunc.h(9,11):
+      'System::String ^CRUDoperation::GetFilePath(void)': is abstract
+      C:\Users\kk\OneDrive\Desktop\Final\projectwillpower\projectwillpower\OOP.h(13,21):
+      see declaration of 'CRUDoperation::GetFilePath'
+  
+  Account.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  projectwillpower.vcxproj -> C:\Users\kk\OneDrive\Desktop\Final\projectwillpower\x64\Debug\projectwillpower.exe

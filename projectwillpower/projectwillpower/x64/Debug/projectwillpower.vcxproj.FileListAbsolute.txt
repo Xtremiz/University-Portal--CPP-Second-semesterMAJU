@@ -1,0 +1,12 @@
+C:\Users\Fozan Ahmed\source\repos\projectwillpower\projectwillpower\x64\Debug\projectwillpower.vcxproj.AssemblyReference.cache
+C:\Users\Fozan Ahmed\source\repos\projectwillpower\projectwillpower\x64\Debug\projectwillpower.Form1.resources
+C:\Users\Fozan Ahmed\source\repos\projectwillpower\projectwillpower\x64\Debug\projectwillpower.vcxproj.GenerateResource.cache
+C:\Users\kk\OneDrive\Desktop\update\projectwillpower\projectwillpower\x64\Debug\projectwillpower.vcxproj.AssemblyReference.cache
+C:\Users\kk\OneDrive\Desktop\update\projectwillpower\projectwillpower\x64\Debug\projectwillpower.Form1.resources
+C:\Users\kk\OneDrive\Desktop\update\projectwillpower\projectwillpower\x64\Debug\projectwillpower.vcxproj.GenerateResource.cache
+C:\Users\kk\OneDrive\Desktop\update - Copy (2)\projectwillpower\projectwillpower\x64\Debug\projectwillpower.vcxproj.AssemblyReference.cache
+C:\Users\kk\OneDrive\Desktop\update - Copy (2)\projectwillpower\projectwillpower\x64\Debug\projectwillpower.Form1.resources
+C:\Users\kk\OneDrive\Desktop\update - Copy (2)\projectwillpower\projectwillpower\x64\Debug\projectwillpower.vcxproj.GenerateResource.cache
+C:\Users\kk\OneDrive\Desktop\Final\projectwillpower\projectwillpower\x64\Debug\projectwillpower.vcxproj.AssemblyReference.cache
+C:\Users\kk\OneDrive\Desktop\Final\projectwillpower\projectwillpower\x64\Debug\projectwillpower.Form1.resources
+C:\Users\kk\OneDrive\Desktop\Final\projectwillpower\projectwillpower\x64\Debug\projectwillpower.vcxproj.GenerateResource.cache

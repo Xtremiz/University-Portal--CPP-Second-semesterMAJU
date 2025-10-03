@@ -1,0 +1,9 @@
+Shumas,Kashif,95,911,bscs,male,Showme123@,100,98,68,98,150000
+Fozan,Tayyab,88,999,bsse,Male,karachi@123,98,98,68,98,155000
+Hassan,Faheem,68,0999,bsai,male,karachi@123,98,98,68,98,165000
+Hadi,Kashif,01,9988,bsai,male,karachi@123,,,,,165000
+Fatima,Iklaq,99,9888,bscs,female,karachi@123,,,,,150000
+Hijab,Ali,22,9888,bsse,female,karachi@123,,,,,155000
+Absar,Imtiaz,03,9988,bsse,male,karachi@123,,,,,155000
+Inam,Gazdar,98,888,bsai,Male,karachi@123,,,,,165000
+Hajra,Hammid,90,990,bscs,Femal,karachi@123,,,,,150000 
